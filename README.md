@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). **And** pre-configured to use Tailwind CSS.
+
+## Installation
+
+Install packages
+
+```bash
+npm i
+# or
+yarn add
+```
+
+---
 
 ## Getting Started
 
